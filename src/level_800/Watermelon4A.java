@@ -8,7 +8,7 @@ public class Watermelon4A {
         int w = sc.nextInt();
 
         if(w % 2 == 0 && w > 2){
-            System.out.println("YESS");
+            System.out.println("YES");
         }else{
             System.out.println("NO");
         }
